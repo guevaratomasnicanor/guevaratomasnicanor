@@ -7,9 +7,9 @@ Actualmente estoy trabajando en proyectos con Python, R y SQL para análisis pre
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
-| [Análisis de Ingresos (Adult Dataset)](https://github.com/tomasnicanor/adult-income) | Estudio de factores que influyen en los ingresos (>50K vs <50K). Incluye PCA y MCA. | R, LightGBM, XGBoost |
-| [Telco Customer Churn](https://github.com/tomasnicanor/telco-churn) | Predicción de clientes propensos a dejar la empresa. | Python, XGBoost, Random Forest |
-| [California Housing Prices](https://github.com/tomasnicanor/california-housing) | Modelado de precios de vivienda y análisis de correlaciones. | Python, scikit-learn |
+| [Análisis de Ingresos (Adult Dataset)](https://github.com/guevaratomasnicanor/adult-income) | Estudio de factores que influyen en los ingresos (>50K vs <50K). Incluye PCA y MCA. | R, LightGBM, XGBoost |
+| [Telco Customer Churn](https://github.com/guevaratomasnicanor/telco-churn) | Predicción de clientes propensos a dejar la empresa. | Python, XGBoost, Random Forest |
+| [California Housing Prices](https://github.com/guevaratomasnicanor/california-housing) | Modelado de precios de vivienda y análisis de correlaciones. | Python, scikit-learn |
 
 ## 📊 Áreas de especialización
 - Análisis exploratorio (EDA)
