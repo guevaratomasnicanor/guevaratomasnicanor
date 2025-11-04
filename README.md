@@ -12,7 +12,7 @@ Actualmente estoy trabajando en proyectos con Python, R y SQL para análisis pre
 | [Breast cancer](https://github.com/guevaratomasnicanor/Breast-cancer) | Clasificación de tumores beningnos vs malignos
 | [Bank Churn Analysis](https://github.com/tomasnicanor/Bank-churn-analysis) | Análisis y predicción de abandono de clientes bancarios.
 | [Boston Housing Prices](https://github.com/tomasnicanor/Boston-Housing-prices) | Análisis de los factores socioeconómicos que afectan el valor medio de las viviendas. 
-| [California Housing Prices](https://github.com/guevaratomasnicanor/california-housing) | Modelado de precios de vivienda y análisis de correlaciones. 
+| [California Housing Prices](https://github.com/guevaratomasnicanor/California-House-prices) | Modelado de precios de vivienda y análisis de correlaciones. 
 
 ## 📊 Áreas de especialización
 - Análisis exploratorio (EDA)
