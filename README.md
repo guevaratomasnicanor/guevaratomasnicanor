@@ -5,8 +5,8 @@ Actualmente estoy trabajando en proyectos con Python, R y SQL para análisis pre
 
 ## Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|-----------|--------------|--------------|
+| Proyecto | Descripción |
+|-----------|--------------|
 | [Análisis de Ingresos (Adult Dataset)](https://github.com/guevaratomasnicanor/Adult-census-income) | Estudio de factores que influyen en los ingresos (>50K vs <50K). 
 | [Telco Customer Churn](https://github.com/guevaratomasnicanor/Telco-Customer-Churn) | Predicción de clientes propensos a dejar la empresa. 
 | [Breast cancer](https://github.com/guevaratomasnicanor/Breast-cancer) | Clasificación de tumores beningnos vs malignos
