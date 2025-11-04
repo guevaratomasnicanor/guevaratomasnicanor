@@ -10,8 +10,8 @@ Actualmente estoy trabajando en proyectos con Python, R y SQL para análisis pre
 | [Análisis de Ingresos (Adult Income Dataset)](https://github.com/guevaratomasnicanor/Adult-census-income) | Estudio de factores que influyen en los ingresos (>50K vs <50K). 
 | [Telco Customer Churn](https://github.com/guevaratomasnicanor/Telco-Customer-Churn) | Predicción de clientes propensos a dejar la empresa. 
 | [Breast cancer](https://github.com/guevaratomasnicanor/Breast-cancer) | Clasificación de tumores beningnos vs malignos
-| [Bank Churn Analysis](https://github.com/tomasnicanor/Bank-churn-analysis) | Análisis y predicción de abandono de clientes bancarios.
-| [Boston Housing Prices](https://github.com/tomasnicanor/Boston-Housing-prices) | Análisis de los factores socioeconómicos que afectan el valor medio de las viviendas. 
+| [Bank Churn Analysis](https://github.com/guevaratomasnicanor/Bank-churn-analysis) | Análisis y predicción de abandono de clientes bancarios.
+| [Boston Housing Prices](https://github.com/guevaratomasnicanor/Boston-Housing-prices) | Análisis de los factores socioeconómicos que afectan el valor medio de las viviendas. 
 | [California Housing Prices](https://github.com/guevaratomasnicanor/California-House-prices) | Modelado de precios de vivienda y análisis de correlaciones. 
 
 ## 📊 Áreas de especialización
